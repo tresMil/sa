@@ -1,0 +1,925 @@
+#EXTM3U
+
+#EXTINF:-1,Caracol
+http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?
+
+#EXTINF:-1,HTV
+http://free.iptvcanales.com/hls/redirect.php/tech/HTV/index.m3u8
+
+#EXTINF:-1,tigo music
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
+
+#EXTINF:1,claro musica
+http://skylineiptv.com:25461/live/iysySwgRZD/sxl7ZewaIQ/128.m3u8
+
+#EXTINF:1,animal planet
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(ANIMAL_PLANET_HD)/Stream(05)/index.m3u8
+
+#EXTINF:-1,Caracol
+http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?
+
+#EXTINF: -1,CANAL RCN
+https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8?exabytetv.info?.m3u
+
+#EXTINF: -1,RCN HD
+https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8?tecnotv.info?.m3u
+
+#EXTINF: -1, Canal 2 [COLOR green]--HD opc2--[/COLOR] 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+
+#EXTINF: -1,CANAL UNO
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
+
+#EXTINF: -1,CANAL INSTITUCIONAL 
+http://live10.cdnmedia.tv/rtvcsinstitucionallive/smil:live.smil/chunklist_b1500000.m3u8
+
+#EXTINF: -1,CANAL 4 
+http://streaming-ca.enetres.net/184784E1D210401F8041E3E1266822CC021/smil:live.smil/chunklist_w1637072900_b1200000.m3u8?idLive=026
+
+
+#EXTINF:0,Cartoon Network
+#EXTGRP:unsorted
+http://209.126.116.177:2086/307CartoonNetwork/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:0,Nick
+#EXTGRP:unsorted
+http://209.126.116.177:2086/305nickelodeon/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:0,NickJr
+#EXTGRP:unsorted
+http://209.126.116.177:2086/306NickJrLatinAmerica/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:0,Disney Channel
+#EXTGRP:unsorted
+http://209.126.116.177:2086/302Disneychannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:0,Disney XD
+#EXTGRP:unsorted
+http://209.126.116.177:2086/304DisneyXDNorte/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:0,Discovery Kids
+#EXTGRP:unsorted
+http://209.126.116.177:2086/310discoverykids/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:0,Disney Junior
+#EXTGRP:unsorted
+http://209.126.116.177:2086/303DisneyJunior/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:0,ANIME TV
+#EXTGRP:unsorted
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?iptvgratis?chile.m3u8
+
+#EXTGRP:unsorted
+http://img2.cda.pl/PV9hYl92cmo9X2QhMDQ2JTU0NCFlN2YpOjdlJDI0My48M2RyZTYzeW8wLmRuYl8tPzMuJTI2Li0_M18lNjA2LjkwNSYxZ2Iu/d501698445e2f577e0213213dfe33eb0.png" , Animehttp://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+
+#EXTINF:0,Anime Tv
+#EXTGRP:unsorted
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?iptvgratis?chile.m3u8
+
+
+#EXTINF: -1,Internacional:Canal Tr3ce Colombia 
+http://live.iaia.stream/canal13live/smil:live.smil/chunklist_b500000.m3u8
+
+#EXTINF: -1,Internacional:Panamericana 
+https://cdnh15.iblups.com/hls/ptv.m3u8
+
+#EXTINF: -1,Internacional:Cable Noticias
+http://cnmedia.eastus2.cloudapp.azure.com:1935/live/cablenoticiastv_360p/chunklist_w287478439.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF: -1,Internacional:V Más TV 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?tecnotv.info?iptv.m3u8?
+
+#EXTINF: -1,Teleantiquia 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?tecnotv.info?iptv.m3u8
+
+#EXTINF: -1,Telemedellin
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?tecnotv.info?iptv.m3u8?
+
+#EXTINF: -1,Las Estrellas 2
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8?tecnotv.info?.m3u
+
+#EXTINF: -1,Ve plus TV 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?tecnotv.info?iptv.m3u8?
+
+#EXTINF: -1,Canal Latina 
+http://cialive-live.hds.adaptive.level3.net/hls-live/ciaremux-live/_definst_/live.m3u8
+
+#EXTINF: -1,Telemax HD 
+http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8?tecnotv.info?iptv.m3u8
+
+#EXTINF: -1,Televida 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8?tecnotv.info?iptv.m3u8
+
+#EXTINF: -1,Ve plus TV 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?tecnotv.info?iptv.m3u8?
+
+#EXTINF: -1,Trendy 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
+
+#EXTINF: -1,DW Latinoamerica 
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8?tecnotv.info?iptv.m3u8
+
+#EXTINF: -1,Nova 
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8?tecnotv.info?iptv.m3u8
+
+#EXTINF: -1,Tec TV
+http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8?tecnotv.info?iptv.m3u8
+
+#EXTINF: -1,TV Monde
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8?tecnotv.info?iptv.m3u8
+
+#EXTINF: -1,TV-uno
+http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8?tecnotv.info?iptv.m3u8
+
+#EXTINF: -1,CAPITAL 21 CDMX
+http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8?tecnotv.info?iptv.m3u8
+
+#EXTINF: -1,Internacional:RT Español
+http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index1600.m3u8
+
+#EXTINF: -1, Telemax [HD]
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+
+#EXTINF: -1,TV Agro
+http://190.248.81.11:1938/live/myStream22/playlist.m3u8
+
+#EXTINF: -1,Canal U
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8?
+
+
+#EXTINF: -1,Internacional:Mega
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF: -1,Internacional:Neox
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF: -1,Internacional:Atreseries
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF: -1,Internacional:Azteca Trece
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+
+#EXTINF: -1,Discovery kid
+http://wowza2.mysoltv.com:1992/Latino_Claro_Sports/index.m3u8
+
+#EXTINF:0,Fox Comedy
+#EXTGRP:unsorted
+https://freedom.dreamsmx.com/freedom/eventos2/playlist.m3u8
+
+#EXTINF:0,CartoonNetwork 1
+#EXTGRP:unsorted
+http://209.126.116.177:2086/307CartoonNetwork/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTGRP:unsorted
+http://edgee2.telesport.pw/live/teledeporte/index.m3u8#EXTGRP:unsortedhttp://merlin.magikdata.biz:8000/live/eva/eva/389.m3u8
+
+#EXTINF:0,Disneychannel 1
+#EXTGRP:unsorted
+http://209.126.116.177:2086/302Disneychannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTGRP:unsorted
+http://edge6204.livesports.pw/live/vermestrenos91ddad7d34dd8/index.m3u8
+#
+EXTINF:0,Nickelodeon 1
+#EXTGRP:unsorted
+http://209.126.116.177:2086/305nickelodeon/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:0,DXTV calidad baja 1
+#EXTGRP:unsorted
+http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?
+
+#EXTGRP:unsorted
+http://edgee8.telesport.pw/live/foxlatino/index.m3u
+
+#EXTINF:0,ESPN +
+#EXTGRP:unsorted
+https://freedom.dreamsmx.com/freedom/espn+/playlist.m3u8
+
+#EXTINF:0,Discoverykids 1
+#EXTGRP:unsorted
+http://209.126.116.177:2086/310discoverykids/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTGRP:unsorted
+https://cdn.opencable.es/hls/live/fighttime/index.m3u8
+
+#EXTGRP:unsorted
+https://hls-ord-1a.vaughnsoft.net/ams/live/live_chespirito_mania/chunklist.m3u8
+#EXTGRP:unsorted
+http://209.126.116.177:2086/306NickJrLatinAmerica/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:0,DISNEY channel 1
+#EXTGRP:unsorted
+http://edge6204.livesports.pw/live/verdisneychannelb3cece21d/index.m3u8
+
+#EXTINF:0,Hbo Plus-1
+#EXTGRP:unsorted
+https://freedom.dreamsmx.com/freedom/hboplusdc/playlist.m3u8
+#EXTINF:0,Gol Peru
+#EXTGRP:unsorted
+http://madevalchile.com/latino2bsdlcj5454-108.m3u8
+
+#EXTINF:0,Broadmovieshd
+#EXTGRP:unsorted
+https://hls-ord-1a.vaughnsoft.net/ams/live/live_broadmovieshd/chunklist.m3u8
+
+#EXTINF:0,WIN SPORTS 1
+#EXTGRP:unsorted
+http://edgee18.vergol.pw/live/winsport/index.m3u8
+
+#EXTINF:0,HBO Signature 1
+#EXTGRP:unsorted
+https://freedom.dreamsmx.com/freedom/hbosignature/playlist.m3u8
+
+#EXTINF:0,AXN 1
+#EXTGRP:unsorted
+http://edge6204.livesports.pw/live/veraxnespd1d0009c8e2342e7/index.m3u8
+
+#EXTINF:0,cinestar
+#EXTGRP:unsorted
+https://hls-ord-1a.vaughnsoft.net/nyc/live/live_cine_star/chunklist.m3u8
+
+#EXTINF:0,fox sports-01
+#EXTGRP:unsorted
+http://link.theplatform.com/s/flac/80Wqf2qD7W5V?mbr=true&feed=FoxPlay%20Live%20Events&manifest=M3U&auth=lZ4PzsEq7QN8IlnWAxo20eCAcFCgoHBm&manifest=m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:0,Fox Sports 2 Argentina
+#EXTGRP:unsorted
+http://madevalchile.com/latino2bsdlcj5454-103.m3u8
+
+#EXTINF:0,FOX_LIFE
+#EXTGRP:unsorted
+http://209.126.116.177:2086/209FoxLife/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:0,Sony
+#EXTGRP:unsorted
+http://209.126.116.177:2086/211sony/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:0,Universal
+#EXTGRP:unsorted
+http://209.126.116.177:2086/203Universal/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:0,FOX
+#EXTGRP:unsorted
+http://209.126.116.177:2086/202CanalFOXMexico/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:0,FX
+#EXTGRP:unsorted
+http://209.126.116.177:2086/207FXLatin/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:0,SyFy
+#EXTGRP:unsorted
+http://209.126.116.177:2086/204SyFyLatin/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:0,HBO
+#EXTGRP:unsorted
+https://freedom.dreamsmx.com/freedom/mlbusa/playlist.m3u8
+
+#EXTINF:0,HBO2
+#EXTGRP:unsorted
+https://freedom.dreamsmx.com/freedom/mlbusa/playlist.m3u8
+
+#EXTINF:0,HBO Signature
+#EXTGRP:unsorted
+https://freedom.dreamsmx.com/freedom/hbosignature/playlist.m3u8
+
+
+#EXTINF:0,Chespiritomania
+#EXTGRP:unsorted
+https://hls-ord-1a.vaughnsoft.net/ams/live/live_chespirito_mania/chunklist.m3u8
+
+#EXTINF:0,Cine Calidad
+#EXTGRP:unsorted
+https://hls-ord-1a.vaughnsoft.net/ams/live/live_cine_calidad/chunklist.m3u8
+
+#EXTINF:0,Kartyhd
+#EXTGRP:unsorted
+https://hls-ord-1a.vaughnsoft.net/ams/live/live_katyhd/chunklist.m3u8
+
+#EXTINF:0,IcremeStaff
+#EXTGRP:unsorted
+https://hls-ord-1a.vaughnsoft.net/ams/live/live_lcreme_staff/chunklist.m3u8
+
+#EXTINF:0,Luzclarita
+#EXTGRP:unsorted
+https://hls-ord-1a.vaughnsoft.net/ams/live/live_luzclarita/chunklist.m3u8
+
+#EXTINF:0,morena Channels 12
+#EXTGRP:unsorted
+https://hls-ord-1a.vaughnsoft.net/ams/live/live_morena_channels12/chunklist.m3u8
+
+#EXTINF:0,Rajaduradplacard
+#EXTGRP:unsorted
+https://hls-ord-1a.vaughnsoft.net/ams/live/live_rajaduradplacard/chunklist.m3u8
+
+#EXTINF:0,Simpsonmaniahd14
+#EXTGRP:unsorted
+https://hls-ord-1a.vaughnsoft.net/ams/live/live_simpson_maniahd14/chunklist.m3u8
+
+#EXTINF:0,Tvhdenvivo12
+#EXTGRP:unsorted
+https://hls-ord-1a.vaughnsoft.net/ams/live/live_tvhdenvivo12/chunklist.m3u8
+
+#EXTINF:0,VitatoSeries
+#EXTGRP:unsorted
+https://hls-ord-1a.vaughnsoft.net/ams/live/live_vitatoseries/chunklist.m3u8
+
+
+#EXTINF: -1,BASKET UNI.USA (Washington)
+http://xrxs.net/video/live-p12wash-2328.m3u8?tecnotv.info?iptv.m3u8
+
+#EXTINF: -1,Fox Sports Chile [HD]
+http://link.theplatform.com/s/flac/80Wqf2qD7W5V?mbr=true&feed=FoxPlay%20Live%20Events&manifest=M3U&auth=lZ4PzsEq7QN8IlnWAxo20eCAcFCgoHBm&manifest=m3u8
+
+#EXTINF: -1,Fox Sports Argentina [HD]
+http://link.theplatform.com/s/flac/nM8cCUC8Vx9L?mbr=true&feed=FoxPlay%20Live%20Events&manifest=M3U&auth=lZ4PzsEq7QN8IlnWAxo20eCAcFCgoHBm&manifest=m3u
+
+#EXTINF: -1,Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?tecnotv.info?iptv.m3u8?sd=10&rebase=on
+
+#EXTINF: -1, DXTV 
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8?tecnotv.info?iptv.m3u8 
+
+#EXTINF: -1, Mi Musica 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8? 
+
+#EXTINF: -1,CINE +
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+
+#EXTINF: -1,Religión:Enlace
+http://acaooyalahd2-lh.akamaihd.net/i/TBN07_delivery@186245/index_1728_av-b.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF: -1,Internacional:Chilevisión
+http://chv.movil.hls.ztreaming.com/chvmovil2/chilevision@140569/1.m3u8
+
+#EXTINF: -1,Internacional:El Tiempo
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF: -1,Música:Top Latino 
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w1282322208.m3u8
+
+#EXTINF: -1,Música:Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?iptvgratis?chile.m3u8 
+
+#EXTINF: -1,Azteca America
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_2_av-p.m3u8?sd=10&rebase=on 
+
+#EXTINF: -1,Antena Latina Perú 
+http://cialive-live.hds.adaptive.level3.net/hls-live/ciaremux-live/_definst_/live/stream4.m3u8 
+
+#EXTINF: -1,BANDAMAX
+http://wowza2.mysoltv.com:1992/Latino_BANDAMAX/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="La: Univision 23 Miami" tvg-logo="https://pbs.twimg.com/profile_images/418694958833360896/pn61o_ds_400x400.jpeg" group-title="LATINO",La: Univision 23 Miami
+http://149.56.240.30:25461/live/EAS12/1111/3114.ts
+
+#EXTINF:0,BEIN LA LIGA HD RESERVA 1
+#EXTGRP:unsorted
+http://merlin.magikdata.biz:8000/live/eva/eva/703.m3u8
+#EXTINF:0,BEIN LA LIGA HD RESERVA 2
+#EXTGRP:unsorted
+http://merlin.magikdata.biz:8000/live/eva/eva/770.m3u8
+#EXTINF:0,BEIN SPORm3u8 FULL HD
+#EXTGRP:unsorted
+http://merlin.magikdata.biz:8000/live/eva/eva/374.m3u8
+#EXTINF:0,BEIN SPORm3u8 HD RESERVA 1
+#EXTGRP:unsorted
+http://merlin.magikdata.biz:8000/live/eva/eva/701.m3u8
+#EXTINF:0,GOL TV
+#EXTGRP:unsorted
+http://merlin.magikdata.biz:8000/live/eva/eva/455.m3u8
+#EXTINF:0,M+ DEPORTES
+#EXTGRP:unsorted
+http://merlin.magikdata.biz:8000/live/eva/eva/365.m3u8
+#EXTINF:0,M+ DEPORTES 2 HD
+#EXTGRP:unsorted
+http://merlin.magikdata.biz:8000/live/eva/eva/366.m3u8
+#EXTINF:0,M+ DEPORTES 2
+#EXTGRP:unsorted
+http://merlin.magikdata.biz:8000/live/eva/eva/367.m3u8
+#EXTINF:0,M+ F1 FULL HD
+#EXTGRP:unsorted
+http://merlin.magikdata.biz:8000/live/eva/eva/319.m3u8
+#EXTINF:0,M+ F1 HD RESERVA 1
+#EXTGRP:unsorted
+http://merlin.magikdata.biz:8000/live/eva/eva/706.m3u8
+#EXTINF:0,M+ MOTO GP FULL HD
+#EXTGRP:unsorted
+http://merlin.magikdata.biz:8000/live/eva/eva/318.m3u8
+#EXTINF:0,PT - SPORTV 1 HD
+#EXTGRP:unsorted
+http://merlin.magikdata.biz:8000/live/eva/eva/206.m3u8
+#EXTINF:0,PT - SPORTV 2 HD
+#EXTGRP:unsorted
+http://merlin.magikdata.biz:8000/live/eva/eva/205.m3u8
+#EXTINF:0,PT - SPORTV 3 HD
+#EXTGRP:unsorted
+http://merlin.magikdata.biz:8000/live/eva/eva/204.m3u8
+#EXTINF:0,PT - SPORTV 4 SD
+#EXTGRP:unsorted
+http://merlin.magikdata.biz:8000/live/eva/eva/1110.m3u8
+#EXTINF:0,PT - SPORTV 5 SD
+#EXTGRP:unsorted
+http://merlin.magikdata.biz:8000/live/eva/eva/1111.m3u8
+#EXTINF:0,Fox Sports 12
+#EXTGRP:unsorted
+http://50.97.142.181:8080/foxsportt.m3u8
+#EXTINF:0,FOX SPORT Chile
+#EXTGRP:unsorted
+http://link.theplatform.com/s/flac/80Wqf2qD7W5V?mbr=true&feed=FoxPlay%20Live%20Events&manifest=M3U&auth=lZ4PzsEq7QN8IlnWAxo20eCAcFCgoHBm&manifest=m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,FOX SPORT Chile
+#EXTGRP:unsorted
+http://link.theplatform.com/s/flac/80Wqf2qD7W5V?mbr=true&feed=FoxPlay%20Sports%20Live%20Events&manifest=M3U&auth=lZ4PzsEq7QN8IlnWAxo20eCAcFCgoHBm&manifest=m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,Fox Sports Argentina HD
+#EXTGRP:unsorted
+http://link.theplatform.com/s/flac/nM8cCUC8Vx9L?mbr=true&feed=FoxPlay%20Live%20Events&manifest=M3U&auth=lZ4PzsEq7QN8IlnWAxo20eCAcFCgoHBm&manifest=m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,FOX SPORT ARG
+#EXTGRP:unsorted
+http://link.theplatform.com/s/flac/nM8cCUC8Vx9L?mbr=true&feed=FoxPlay%20Live%20Events&manifest=M3U&auth=lZ4PzsEq7QN8IlnWAxo20eCAcFCgoHBm&manifest=m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,FOX SPORT ARG
+#EXTGRP:unsorted
+http://link.theplatform.com/s/flac/nM8cCUC8Vx9L?mbr=true&feed=FoxPlay%20Live%20Events&manifest=M3U&auth=s09d3wXWk6R6UrmCA1pokWACEAD8MJCu&manifest=m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,FOX SPORT MEX
+#EXTGRP:unsorted
+http://link.theplatform.com/s/flac/xr8_wTxx_f5i?mbr=true&feed=FoxPlay%20Live%20Events&manifest=M3U&auth=lZ4PzsEq7QN8IlnWAxo20eCAcFCgoHBm&manifest=m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,Fox Sports 3
+#EXTGRP:unsorted
+http://209.126.116.177:2086/508FoxSports3/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+#EXTINF:0,Fox Sports 2
+#EXTGRP:unsorted
+http://209.126.116.177:2086/503FoxSport2/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+#EXTINF:0,FOX SPORT ARG
+#EXTGRP:unsorted
+http://link.theplatform.com/s/flac/nM8cCUC8Vx9L?mbr=true&feed=FoxPlay%20Live%20Events&manifest=M3U&auth=s09d3wXWk6R6UrmCA1pokWACEAD8MJCu&manifest=m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,ALL SPORTS TV
+#EXTGRP:unsorted
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:0,EUROSPORT
+#EXTGRP:unsorted
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+#EXTINF:0,EURO SPORT 1
+#EXTGRP:unsorted
+http://185.142.239.164:3135/Euro/1/index.m3u8
+#EXTINF:0,26Olympic Channel 2
+#EXTGRP:unsorted
+http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_3_964000.m3u8
+#EXTINF:0,Chelsea TV
+#EXTGRP:unsorted
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
+#EXTINF:0,28 betis
+#EXTGRP:unsorted
+http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8
+#EXTINF:0,29 Real Madrid
+#EXTGRP:unsorted
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0,Todo Deportes
+#EXTGRP:unsorted
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,Sevilla FC
+#EXTGRP:unsorted
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,Teletrack
+#EXTGRP:unsorted
+http://edge1.cl.grupoz.cl/teletrak//live/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,Sporting Tv HD
+#EXTGRP:unsorted
+http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,Sporting Tv SD
+#EXTGRP:unsorted
+http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream2/chunks.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,Olympic Channel HD
+#EXTGRP:unsorted
+http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_5_2264000.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,Olympic Channel SD
+#EXTGRP:unsorted
+http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_3_964000.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,EUROSPORT 1
+#EXTGRP:unsorted
+http://81.7.13.162/hls/ss4/index.m3u8?tecnotv.info?iptv.m3u8
+#EXTINF:0,Eurosport Eng
+#EXTGRP:unsorted
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,All Sports
+#EXTGRP:unsorted
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,SportBG HD
+#EXTGRP:unsorted
+http://pri.cdn.bg:2001/fls/sportal_tv_hd.stream/playlist.m3u8
+#EXTINF:0,AD Sports 2 HD
+#EXTGRP:unsorted
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:0,Pac 12 Arizona
+#EXTGRP:unsorted
+http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
+#EXTINF:0,Pac 12 Los Angeles
+#EXTGRP:unsorted
+http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
+#EXTINF:0,Pac 12 Moutain
+#EXTGRP:unsorted
+http://xrxs.net/video/live-p12moun-4728.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,Pac 12 Oregon
+#EXTGRP:unsorted
+http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
+#EXTINF:0,Pac 12 Washington 1
+#EXTGRP:unsorted
+http://xrxs.net/video/live-p12wash-4728.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,Pac 12 Washington 2
+#EXTGRP:unsorted
+http://xrxs.net/video/live-p12wash-2328.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,ESPN
+#EXTGRP:unsorted
+http://209.126.116.177:2086/505ESPN/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+#EXTINF:0,ESPN 2
+#EXTGRP:unsorted
+http://209.126.116.177:2086/506ESPN2/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+#EXTINF:0,ESPN 3
+#EXTGRP:unsorted
+http://209.126.116.177:2086/507ESPN3/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+#EXTINF:0,Claro Sports
+#EXTGRP:unsorted
+http://209.126.116.177:2086/504clarosport/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+#EXTINF:0,mexico UNIVISION TDN SPORT
+#EXTGRP:unsorted
+http://stdephds-lh.akamaihd.net/i/ad3pst02hds_1@335205/index_1048_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0,mexico UNIVISION TDN sport
+#EXTGRP:unsorted
+http://stdephds-lh.akamaihd.net/i/ad3pst02hds_1@335205/index_1048_av-b.m3u8?sd=10&rebase=o
+#EXTINF:0,Univision TDN
+#EXTGRP:unsorted
+http://stdephds-lh.akamaihd.net/i/ad3pst02hds_1@335205/master.m3u8
+#EXTINF:0,Univisi?n TDN
+#EXTGRP:unsorted
+http://stdephds-lh.akamaihd.net/i/ad3pst02hds_1@335205/master.m3u8
+#EXTINF:0,Ten Sports 1
+#EXTGRP:unsorted
+http://185.142.239.164:3135/Ten/1/index.m3u8
+#EXTINF:0,Ten Sports 3
+#EXTGRP:unsorted
+http://185.142.239.164:3135/Ten/3/index.m3u8
+#EXTINF:0,BFM Sport
+#EXTGRP:unsorted
+http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master.m3u8
+#EXTINF:0,MLB Network
+#EXTGRP:unsorted
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:0,DirectTV Sports
+#EXTGRP:unsorted
+http://madevalchile.com/latino2bsdlcj5454-106.m3u8
+#EXTINF:0,Chelsea Tv
+#EXTGRP:unsorted
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8
+#EXTINF:0,A1 SPORTS
+#EXTGRP:unsorted
+http://109.236.91.150:8080/A1Sport/index.m3u8
+#EXTINF:0,AD Sports 1 HD
+#EXTGRP:unsorted
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:0,AD Sports 1 HD
+#EXTGRP:unsorted
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
+#EXTINF:0,AD Sports 2 HD
+#EXTGRP:unsorted
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+#EXTINF:0,DisneyXD 1
+#EXTGRP:???????
+http://209.126.116.177:2086/304DisneyXDNorte/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:0,DARK 1
+#EXTGRP:???????
+http://edge6201.livesports.pw/live/verdarkes07ff3fa6e4dc81d3/index.m3u8
+#EXTINF:0,DisneyJunior 1
+#EXTGRP:???????
+http://209.126.116.177:2086/303DisneyJunior/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:0,Fox Comedy
+#EXTGRP:???????
+https://freedom.dreamsmx.com/freedom/eventos2/playlist.m3u8
+#EXTINF:0,CartoonNetwork 1
+#EXTGRP:???????
+http://209.126.116.177:2086/307CartoonNetwork/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:0,Fox Sports (Sudamerica)
+#EXTGRP:???????
+http://madevalchile.com/latino2bsdlcj5454-101.m3u8
+#EXTINF:0,TDP 1
+#EXTGRP:???????
+http://edgee2.telesport.pw/live/teledeporte/index.m3u8#EXTGRP:unsortedhttp://merlin.magikdata.biz:8000/live/eva/eva/389.m3u8
+#EXTINF:0,Disneychannel 1
+#EXTGRP:???????
+http://209.126.116.177:2086/302Disneychannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:0,Movistar Estrenos 1
+#EXTGRP:???????
+http://edge6204.livesports.pw/live/vermestrenos91ddad7d34dd8/index.m3u8
+#EXTINF:0,Nickelodeon 1
+#EXTGRP:???????
+http://209.126.116.177:2086/305nickelodeon/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:0,DXTV calidad baja 1
+#EXTGRP:???????
+http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?
+#EXTINF:0,Fox latino
+#EXTGRP:???????
+http://edgee8.telesport.pw/live/foxlatino/index.m3u
+#EXTINF:0,ESPN +
+#EXTGRP:???????
+https://freedom.dreamsmx.com/freedom/espn+/playlist.m3u8
+#EXTINF:0,Discoverykids 1
+#EXTGRP:???????
+http://209.126.116.177:2086/310discoverykids/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:0,Fight Time
+#EXTGRP:???????
+https://cdn.opencable.es/hls/live/fighttime/index.m3u8
+#EXTINF:0,Chespirito 24/7
+#EXTGRP:???????
+https://hls-ord-1a.vaughnsoft.net/ams/live/live_chespirito_mania/chunklist.m3u8
+#EXTINF:0,NickJr 1
+#EXTGRP:???????
+http://209.126.116.177:2086/306NickJrLatinAmerica/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:0,DISNEY channel 1
+#EXTGRP:???????
+http://edge6204.livesports.pw/live/verdisneychannelb3cece21d/index.m3u8
+#EXTINF:0,Hbo Plus-1
+#EXTGRP:???????
+https://freedom.dreamsmx.com/freedom/hboplusdc/playlist.m3u8
+#EXTINF:0,Broadmovieshd
+#EXTGRP:???????
+https://hls-ord-1a.vaughnsoft.net/ams/live/live_broadmovieshd/chunklist.m3u8
+#EXTGRP:???????
+http://edge6204.livesports.pw/live/veraccion177662786c60c28d/index.m3u8
+#EXTINF:0,HBO Signature 1
+#EXTGRP:???????
+https://freedom.dreamsmx.com/freedom/hbosignature/playlist.m3u8
+#EXTINF:0,AXN 1
+#EXTGRP:???????
+http://edge6204.livesports.pw/live/veraxnespd1d0009c8e2342e7/index.m3u8
+#EXTINF:0,cinestar
+#EXTGRP:???????
+https://hls-ord-1a.vaughnsoft.net/nyc/live/live_cine_star/chunklist.m3u8
+#EXTINF:0,Cinemax 1
+#EXTGRP:???????
+http://edgee18.vergol.pw/live/cinemax/index.m3u8
+#EXTINF:0,fox sports-01
+#EXTGRP:???????
+http://link.theplatform.com/s/flac/80Wqf2qD7W5V?mbr=true&feed=FoxPlay%20Live%20Events&manifest=M3U&auth=lZ4PzsEq7QN8IlnWAxo20eCAcFCgoHBm&manifest=m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,#0 (CANAL+ HD)
+#EXTGRP:???????
+http://merlin.magikdata.biz:8000/live/eva/eva/348.m3u8EXTINF:0,==PELICULAS&SERIES==
+#EXTINF:0,Fox Sports 2 Argentina
+#EXTGRP:???????
+http://madevalchile.com/latino2bsdlcj5454-103.m3u8
+#EXTINF:0,CDFPremiun 1
+#EXTGRP:???????
+http://edgee9.vergol.pw/live/cdf/index.m3u8
+#EXTINF:0,FOX_LIFE
+#EXTGRP:???????
+http://209.126.116.177:2086/209FoxLife/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:0,Sony
+#EXTGRP:???????
+http://209.126.116.177:2086/211sony/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:0,Universal
+#EXTGRP:???????
+http://209.126.116.177:2086/203Universal/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:0,FOX
+#EXTGRP:???????
+http://209.126.116.177:2086/202CanalFOXMexico/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:0,FX
+#EXTGRP:???????
+http://209.126.116.177:2086/207FXLatin/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:0,SyFy
+#EXTGRP:???????
+http://209.126.116.177:2086/204SyFyLatin/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:0,HBO
+#EXTGRP:???????
+https://freedom.dreamsmx.com/freedom/mlbusa/playlist.m3u8
+#EXTINF:0,HBO2
+#EXTGRP:???????
+https://freedom.dreamsmx.com/freedom/mlbusa/playlist.m3u8
+#EXTINF:0,HBO Signature
+#EXTGRP:???????
+https://freedom.dreamsmx.com/freedom/hbosignature/playlist.m3u8
+#EXTINF:0,TNT Series
+#EXTGRP:???????
+http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/266.fl
+#EXTINF:0,Chespiritomania
+#EXTGRP:???????
+https://hls-ord-1a.vaughnsoft.net/ams/live/live_chespirito_mania/chunklist.m3u8
+#EXTINF:0,Cine Calidad
+#EXTGRP:???????
+https://hls-ord-1a.vaughnsoft.net/ams/live/live_cine_calidad/chunklist.m3u8
+#EXTINF:0,Kartyhd
+#EXTGRP:???????
+https://hls-ord-1a.vaughnsoft.net/ams/live/live_katyhd/chunklist.m3u8
+#EXTINF:0,IcremeStaff
+#EXTGRP:???????
+https://hls-ord-1a.vaughnsoft.net/ams/live/live_lcreme_staff/chunklist.m3u8
+#EXTINF:0,Luzclarita
+#EXTGRP:???????
+https://hls-ord-1a.vaughnsoft.net/ams/live/live_luzclarita/chunklist.m3u8
+#EXTINF:0,morena Channels 12
+#EXTGRP:???????
+https://hls-ord-1a.vaughnsoft.net/ams/live/live_morena_channels12/chunklist.m3u8
+#EXTINF:0,Rajaduradplacard
+#EXTGRP:???????
+https://hls-ord-1a.vaughnsoft.net/ams/live/live_rajaduradplacard/chunklist.m3u8
+
+#EXTINF:0,Tvhdenvivo12
+#EXTGRP:???????
+https://hls-ord-1a.vaughnsoft.net/ams/live/live_tvhdenvivo12/chunklist.m3u8
+#EXTINF:0,VitatoSeries
+#EXTGRP:???????
+https://hls-ord-1a.vaughnsoft.net/ams/live/live_vitatoseries/chunklist.m3u8
+#EXTINF:0,Cartoon Network
+#EXTGRP:???????
+http://209.126.116.177:2086/307CartoonNetwork/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:0,NickJr
+#EXTGRP:???????
+http://209.126.116.177:2086/306NickJrLatinAmerica/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:0,Disney Channel
+#EXTGRP:???????
+http://209.126.116.177:2086/302Disneychannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:0,Disney XD
+#EXTGRP:???????
+http://209.126.116.177:2086/304DisneyXDNorte/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:0,Discovery Kids
+#EXTGRP:???????
+http://209.126.116.177:2086/310discoverykids/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:0,Disney Junior
+#EXTGRP:???????
+http://209.126.116.177:2086/303DisneyJunior/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:0,ANIME TV
+#EXTGRP:???????
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,logo="
+http://merlin.magikdata.biz:8000/live/eva/eva/701.m3u8
+#EXTINF:0,GOL TV
+#EXTGRP:???????
+http://merlin.magikdata.biz:8000/live/eva/eva/455.m3u8
+#EXTINF:0,M+ DEPORTES
+#EXTGRP:???????
+http://merlin.magikdata.biz:8000/live/eva/eva/365.m3u8
+#EXTINF:0,M+ DEPORTES 2 HD
+#EXTGRP:???????
+http://merlin.magikdata.biz:8000/live/eva/eva/366.m3u8
+#EXTINF:0,M+ DEPORTES 2
+#EXTGRP:???????
+http://merlin.magikdata.biz:8000/live/eva/eva/367.m3u8
+#EXTINF:0,M+ F1 FULL HD
+#EXTGRP:???????
+http://merlin.magikdata.biz:8000/live/eva/eva/319.m3u8
+#EXTINF:0,M+ F1 HD RESERVA 1
+#EXTGRP:???????
+http://merlin.magikdata.biz:8000/live/eva/eva/706.m3u8
+#EXTINF:0,M+ MOTO GP FULL HD
+#EXTGRP:???????
+http://merlin.magikdata.biz:8000/live/eva/eva/318.m3u8
+#EXTINF:0,PT - SPORTV 1 HD
+#EXTGRP:???????
+http://merlin.magikdata.biz:8000/live/eva/eva/206.m3u8
+#EXTINF:0,PT - SPORTV 2 HD
+#EXTGRP:???????
+http://merlin.magikdata.biz:8000/live/eva/eva/205.m3u8
+#EXTINF:0,PT - SPORTV 3 HD
+#EXTGRP:???????
+http://merlin.magikdata.biz:8000/live/eva/eva/204.m3u8
+#EXTINF:0,PT - SPORTV 4 SD
+#EXTGRP:???????
+http://merlin.magikdata.biz:8000/live/eva/eva/1110.m3u8
+#EXTINF:0,PT - SPORTV 5 SD
+#EXTGRP:???????
+http://merlin.magikdata.biz:8000/live/eva/eva/1111.m3u8
+#EXTINF:0,Fox Sports 12
+#EXTGRP:???????
+http://50.97.142.181:8080/foxsportt.m3u8
+#EXTINF:0,FOX SPORT Chile
+#EXTGRP:???????
+http://link.theplatform.com/s/flac/80Wqf2qD7W5V?mbr=true&feed=FoxPlay%20Live%20Events&manifest=M3U&auth=lZ4PzsEq7QN8IlnWAxo20eCAcFCgoHBm&manifest=m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,FOX SPORT Chile
+#EXTGRP:???????
+http://link.theplatform.com/s/flac/80Wqf2qD7W5V?mbr=true&feed=FoxPlay%20Sports%20Live%20Events&manifest=M3U&auth=lZ4PzsEq7QN8IlnWAxo20eCAcFCgoHBm&manifest=m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,Fox Sports Argentina HD
+#EXTGRP:???????
+http://link.theplatform.com/s/flac/nM8cCUC8Vx9L?mbr=true&feed=FoxPlay%20Live%20Events&manifest=M3U&auth=lZ4PzsEq7QN8IlnWAxo20eCAcFCgoHBm&manifest=m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,FOX SPORT ARG
+#EXTGRP:???????
+http://link.theplatform.com/s/flac/nM8cCUC8Vx9L?mbr=true&feed=FoxPlay%20Live%20Events&manifest=M3U&auth=lZ4PzsEq7QN8IlnWAxo20eCAcFCgoHBm&manifest=m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,FOX SPORT ARG
+#EXTGRP:???????
+http://link.theplatform.com/s/flac/nM8cCUC8Vx9L?mbr=true&feed=FoxPlay%20Live%20Events&manifest=M3U&auth=s09d3wXWk6R6UrmCA1pokWACEAD8MJCu&manifest=m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,FOX SPORT MEX
+#EXTGRP:???????
+http://link.theplatform.com/s/flac/xr8_wTxx_f5i?mbr=true&feed=FoxPlay%20Live%20Events&manifest=M3U&auth=lZ4PzsEq7QN8IlnWAxo20eCAcFCgoHBm&manifest=m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,Fox Sports 3
+#EXTGRP:???????
+http://209.126.116.177:2086/508FoxSports3/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+#EXTINF:0,Fox Sports 2
+#EXTGRP:???????
+http://209.126.116.177:2086/503FoxSport2/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+#EXTINF:0,FOX SPORT ARG
+#EXTGRP:???????
+http://link.theplatform.com/s/flac/nM8cCUC8Vx9L?mbr=true&feed=FoxPlay%20Live%20Events&manifest=M3U&auth=s09d3wXWk6R6UrmCA1pokWACEAD8MJCu&manifest=m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,ALL SPORTS TV
+#EXTGRP:???????
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:0,EUROSPORT
+#EXTGRP:???????
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+#EXTINF:0,EURO SPORT 1
+#EXTGRP:???????
+http://185.142.239.164:3135/Euro/1/index.m3u8
+#EXTINF:0,26Olympic Channel 2
+#EXTGRP:???????
+http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_3_964000.m3u8
+#EXTINF:0,Chelsea TV
+#EXTGRP:???????
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
+#EXTINF:0,28 betis
+#EXTGRP:???????
+http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8
+#EXTINF:0,29 Real Madrid
+#EXTGRP:???????
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0,Todo Deportes
+#EXTGRP:???????
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,Sevilla FC
+#EXTGRP:???????
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,Teletrack
+#EXTGRP:???????
+http://edge1.cl.grupoz.cl/teletrak//live/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,Sporting Tv HD
+#EXTGRP:???????
+http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,Sporting Tv SD
+#EXTGRP:???????
+http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream2/chunks.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,Olympic Channel HD
+#EXTGRP:???????
+http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_5_2264000.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,Olympic Channel SD
+#EXTGRP:???????
+http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_3_964000.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,EUROSPORT 1
+#EXTGRP:???????
+http://81.7.13.162/hls/ss4/index.m3u8?tecnotv.info?iptv.m3u8
+#EXTINF:0,Eurosport Eng
+#EXTGRP:???????
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,All Sports
+#EXTGRP:???????
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,SportBG HD
+#EXTGRP:???????
+
+#EXTGRP:???????
+http://xrxs.net/video/live-p12wash-2328.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,ESPN
+#EXTGRP:???????
+http://209.126.116.177:2086/505ESPN/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+#EXTINF:0,ESPN 2
+#EXTGRP:???????
+http://209.126.116.177:2086/506ESPN2/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+#EXTINF:0,ESPN 3
+#EXTGRP:???????
+http://209.126.116.177:2086/507ESPN3/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+#EXTINF:0,Claro Sports
+#EXTGRP:???????
+http://209.126.116.177:2086/504clarosport/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+#EXTINF:0,mexico UNIVISION TDN SPORT
+#EXTGRP:???????
+http://stdephds-lh.akamaihd.net/i/ad3pst02hds_1@335205/index_1048_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0,mexico UNIVISION TDN sport
+#EXTGRP:???????
+http://stdephds-lh.akamaihd.net/i/ad3pst02hds_1@335205/index_1048_av-b.m3u8?sd=10&rebase=o
+#EXTINF:0,Univision TDN
+#EXTGRP:???????
+http://stdephds-lh.akamaihd.net/i/ad3pst02hds_1@335205/master.m3u8
+#EXTINF:0,Univisi?n TDN
+#EXTGRP:???????
+http://stdephds-lh.akamaihd.net/i/ad3pst02hds_1@335205/master.m3u8
+#EXTINF:0,Ten Sports 1
+#EXTGRP:???????
+http://185.142.239.164:3135/Ten/1/index.m3u8
+#EXTINF:0,Ten Sports 3
+#EXTGRP:???????
+http://185.142.239.164:3135/Ten/3/index.m3u8
+#EXTINF:0,BFM Sport
+#EXTGRP:???????
+http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master.m3u8
+#EXTINF:0,MLB Network
+#EXTGRP:???????
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTGRP:???????
+http://madevalchile.com/latino2bsdlcj5454-106.m3u8
+#EXTGRP:???????
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8
+#EXTINF:0,A1 SPORTS
+#EXTGRP:???????
+http://109.236.91.150:8080/A1Sport/index.m3u8
+#EXTINF:0,AD Sports 1 HD
+#EXTGRP:???????
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:0,AD Sports 1 HD
+#EXTGRP:???????
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
+#EXTINF:0,AD Sports 2 HD
+#EXTGRP:???????
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+#EXTINF:0,HBO
+#EXTGRP:???????
+https://freedom.dreamsmx.com/freedom/mlbusa/playlist.m3u8
